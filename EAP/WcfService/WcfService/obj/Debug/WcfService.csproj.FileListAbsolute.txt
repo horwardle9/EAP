@@ -1,0 +1,20 @@
+C:\Mon EAP\WcfService\WcfService\bin\WcfService.dll.config
+C:\Mon EAP\WcfService\WcfService\bin\WcfService.dll
+C:\Mon EAP\WcfService\WcfService\bin\WcfService.pdb
+C:\Mon EAP\WcfService\WcfService\bin\EntityFramework.dll
+C:\Mon EAP\WcfService\WcfService\bin\EntityFramework.SqlServer.dll
+C:\Mon EAP\WcfService\WcfService\bin\EntityFramework.xml
+C:\Mon EAP\WcfService\WcfService\bin\EntityFramework.SqlServer.xml
+C:\Mon EAP\WcfService\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Mon EAP\WcfService\WcfService\obj\Debug\WcfService.dll
+C:\Mon EAP\WcfService\WcfService\obj\Debug\WcfService.pdb
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\bin\WcfService.dll.config
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\bin\WcfService.dll
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\bin\WcfService.pdb
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\bin\EntityFramework.dll
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\bin\EntityFramework.SqlServer.dll
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\bin\EntityFramework.xml
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\bin\EntityFramework.SqlServer.xml
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\obj\Debug\WcfService.dll
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\obj\Debug\WcfService.pdb
+C:\Users\Hung\Desktop\EAP\EAP\WcfService\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache

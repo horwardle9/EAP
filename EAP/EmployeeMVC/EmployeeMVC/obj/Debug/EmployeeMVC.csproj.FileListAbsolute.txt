@@ -1,0 +1,110 @@
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\EmployeeMVC.dll.config
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\EmployeeMVC.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\EmployeeMVC.pdb
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Antlr3.Runtime.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\EntityFramework.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\EntityFramework.SqlServer.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Newtonsoft.Json.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Owin.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Helpers.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Mvc.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Optimization.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Razor.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.Razor.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\WebGrease.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Helpers.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Mvc.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Optimization.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Razor.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.Razor.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Antlr3.Runtime.pdb
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Newtonsoft.Json.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\EntityFramework.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\EntityFramework.SqlServer.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\obj\Debug\EmployeeMVC.csprojResolveAssemblyReference.cache
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\obj\Debug\EmployeeMVC.dll
+C:\Mon EAP\EmployeeMVC\EmployeeMVC\obj\Debug\EmployeeMVC.pdb
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\EmployeeMVC.dll.config
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\EmployeeMVC.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\EmployeeMVC.pdb
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Antlr3.Runtime.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\EntityFramework.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Newtonsoft.Json.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Owin.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Helpers.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Mvc.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Optimization.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Razor.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\WebGrease.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Helpers.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Mvc.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Optimization.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.Razor.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Newtonsoft.Json.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\EntityFramework.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\obj\Debug\EmployeeMVC.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\obj\Debug\EmployeeMVC.dll
+C:\Users\Hung\Desktop\EAP\EAP\EmployeeMVC\EmployeeMVC\obj\Debug\EmployeeMVC.pdb
